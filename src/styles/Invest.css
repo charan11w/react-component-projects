@@ -1,0 +1,44 @@
+.sip{
+  margin-left:auto;
+  margin-right:auto;
+  width:420px;
+  height:130px;
+  background-color: white;
+  padding:15px;
+  border-radius: 8px;
+  margin-top:5px;
+  font-family: arial;
+  margin-bottom: 15px;;
+}
+.sip-button{
+  border: none;
+  padding:2px 6px;
+  font-size:12px;
+  background-color: rgb(180, 252, 180);
+  color:rgb(0, 128, 0);
+  border-radius: 2px;
+  margin-top:5px;
+}
+.investment{
+  display:inline-block;
+  vertical-align: top;
+  margin-right:40px;
+}
+.current-invest{
+  display:inline-block;
+  vertical-align: top;
+}
+.amount-total{
+  margin-top:10px;
+}
+.current-invest{
+  display: inline-block;
+  margin-right:40px;
+}
+.extra-space{
+  margin-left: 100px;
+}
+.total{
+  margin-left: auto;
+  margin-right:auto;
+}
